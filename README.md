@@ -15,7 +15,7 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  : Heksa Dananjaya
 <br>
-NIM   :
+NIM   : 119140057
  
